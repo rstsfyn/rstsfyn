@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/rstsfyn/my_porto/blob/main/img/profile/Art%20Cat%20GIF%20%E2%80%A2%20%20Psychedelic%20trippy%20%20high%20on%20catnip.%20Too%20much%20catnip%20%20is%20too%20much%20%5BHigh%20speed%5D.gif">
+<img src="https://raw.githubusercontent.com/rstsfyn/my_porto/main/img/profile/cat.webp">
 </p>
 
 <div align="center">
