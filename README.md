@@ -17,6 +17,7 @@ I continue learning
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rstsfyn&layout=compact&langs_count=20&theme=dracula"/>
 </div>
 <div align="center">
+  <p>MY STATS</p>
   <a href="https://github.com/rstsfyn">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rstsfyn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
