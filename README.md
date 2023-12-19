@@ -18,6 +18,10 @@ I continue learning
 </div>
 
 <div align="center">
-  <img height="187em" src="https://github-readme-stats.vercel.app/api?username=rstsfyn&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <img height="187em" src="https://github-readme-stats.vercel.app/api?username=rstsfyn&show_icons=true&theme=white&include_all_commits=true&count_private=true&theme=dracula"/>
+</div>
+
+<div>
+ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5llAcLZpMCl8KmrcVUrE8d?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
 
