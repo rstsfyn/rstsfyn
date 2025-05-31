@@ -14,7 +14,7 @@ I continue learning
 Learner💻
 </p>
 <p align="center">
-Mobile Apps Enthusiast
+Mobile Apps Enthusiast 📱
 </p>
 
 ### Github Statistic
