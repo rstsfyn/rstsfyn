@@ -9,6 +9,8 @@
 
 <p align="center">
 I continue learning
+Learner💻
+Mobile Apps Enthusiast
 </p>
 
 ### Github Statistic
