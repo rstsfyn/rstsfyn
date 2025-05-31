@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-I continue learning
+I continue learning 🎯
 </p>
 <p align="center">
 Learner💻
