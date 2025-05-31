@@ -9,7 +9,11 @@
 
 <p align="center">
 I continue learning
+</p>
+<p align="center">
 Learner💻
+</p>
+<p align="center">
 Mobile Apps Enthusiast
 </p>
 
