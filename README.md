@@ -21,3 +21,6 @@ Mobile Apps Enthusiast 📱
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rstsfyn&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+### Github Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rstsfyn&theme=dark)](https://git.io/streak-stats)
