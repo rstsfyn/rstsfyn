@@ -1,26 +1,25 @@
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/rstsfyn/my_porto/main/img/profile/cat.webp">
+  <img src="https://raw.githubusercontent.com/rstsfyn/my_porto/main/img/profile/cat.webp" width="220"/>
 </p>
 
-<div align="center">
-  <h1>Hi!, My name is Fyan</h1>
-</div>
+<h1 align="center">Hi!, I'm Fyan 👋</h1>
 
 <p align="center">
-Learner💻
-</p>
-<p align="center">
-Mobile Apps Enthusiast 📱
+  💻 Learner • 📱 Mobile Apps Enthusiast
 </p>
 
-### My Github Statistics
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rstsfyn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img width="37%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rstsfyn&layout=compact&langs_count=8&theme=algolia" />
+  <img width="55%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rstsfyn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </p>
 
+---
+
+## 🛠 Tech Stack
+
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=rstsfyn&theme=algolia" />
+  <img src="https://skillicons.dev/iconsi=kotlin,flutter,dart,java,laravel,php,nextjs,react,nodejs,express,mysql,mongodb,firebase,git,github,vscode,figma&perline=9" />
 </p>
