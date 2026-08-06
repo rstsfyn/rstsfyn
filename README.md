@@ -1,18 +1,32 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rstsfyn/my_porto/main/img/profile/cat.webp" width="220"/>
+  <img src="https://raw.githubusercontent.com/rstsfyn/my_porto/main/img/profile/cat.webp">
 </p>
 
-<h1 align="center">Hi!, I'm Fyan 👋</h1>
+<div align="center">
+  <h1>Hi!, My name is Fyan</h1>
+</div>
 
 <p align="center">
-  💻 Learner • 📱 Mobile Apps Enthusiast
+  Learner 💻
 </p>
 
-
-
-### Github Statistics
 <p align="center">
-  <img width="32%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rstsfyn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img width="32%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rstsfyn&layout=compact&langs_count=8&theme=algolia" />
-  <img width="32%" src="https://streak-stats.demolab.com?user=rstsfyn&theme=algolia" />
-</p>samkan tingginya seragam gitu
+  Mobile Apps Enthusiast 📱
+</p>
+
+### GitHub Statistics
+
+<p align="center">
+  <a href="https://github.com/rstsfyn">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rstsfyn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rstsfyn&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+### GitHub Streak
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img height="180em" src="https://streak-stats.demolab.com/?user=rstsfyn&theme=dark"/>
+  </a>
+</p>
