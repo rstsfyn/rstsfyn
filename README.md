@@ -8,18 +8,11 @@
   💻 Learner • 📱 Mobile Apps Enthusiast
 </p>
 
----
 
-## 📊 GitHub Statistics
 
+### Github Statistics
 <p align="center">
-  <img width="55%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rstsfyn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</p>
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/iconsi=kotlin,flutter,dart,java,laravel,php,nextjs,react,nodejs,express,mysql,mongodb,firebase,git,github,vscode,figma&perline=9" />
-</p>
+  <img width="32%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rstsfyn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img width="32%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rstsfyn&layout=compact&langs_count=8&theme=algolia" />
+  <img width="32%" src="https://streak-stats.demolab.com?user=rstsfyn&theme=algolia" />
+</p>samkan tingginya seragam gitu
