@@ -14,13 +14,10 @@ Learner💻
 Mobile Apps Enthusiast 📱
 </p>
 
-### Github Statistic
-<p align="left">
-<a href="https://github.com/rstsfyn">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rstsfyn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rstsfyn&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+### Github Statistics
 
-### Github Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rstsfyn&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rstsfyn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rstsfyn&layout=compact&langs_count=8&theme=algolia" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=rstsfyn&theme=algolia" height="150"/>
+</p>
