@@ -15,11 +15,12 @@ Mobile Apps Enthusiast 📱
 </p>
 
 ### My Github Statistics
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rstsfyn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rstsfyn&layout=compact&langs_count=8&theme=algolia" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rstsfyn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img width="37%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rstsfyn&layout=compact&langs_count=8&theme=algolia" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=rstsfyn&theme=algolia" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=rstsfyn&theme=algolia" />
 </p>
