@@ -22,11 +22,3 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rstsfyn&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
-### GitHub Streak
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=rstsfyn&theme=dark"/>
-  </a>
-</p>
