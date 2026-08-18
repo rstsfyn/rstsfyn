@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  Learner 💻
+  Learner
 </p>
 
 <p align="center">
