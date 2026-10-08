@@ -7,10 +7,6 @@
 </div>
 
 <p align="center">
-  Learner✌🏻
-</p>
-
-<p align="center">
   Mobile Apps Enthusiast 📱
 </p>
 
