@@ -6,15 +6,24 @@
   <h1>Hi!, My name is Fyan</h1>
 </div>
 
+## Tech Stack & Tools
+
 <p align="center">
-  Mobile Apps Enthusiast 📱
+  <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,androidstudio,gradle&theme=dark" />
 </p>
 
-### GitHub Statistics
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,laravel,express,js,ts&theme=dark" />
+</p>
 
 <p align="center">
-  <a href="https://github.com/rstsfyn">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rstsfyn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rstsfyn&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,firebase&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,postman,git,github&theme=dark" />
+</p>
+
+<p align="center">
+  <sub>Kotlin • Jetpack Compose • Flutter • Next.js • Laravel • Express.js • Vanilla JavaScript • TypeScript • PostgreSQL • Supabase • Firebase • Figma • Postman</sub>
 </p>
