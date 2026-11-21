@@ -1,84 +1,16 @@
-<!-- Profile Banner -->
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/rstsfyn/my_porto/main/img/profile/cat.webp"
-    alt="Fyan Profile"
-    width="300"
-  />
-
-  <h1>Hi, I'm Fyan! 👋</h1>
-
-  <p>
-    <strong>Software Engineer | Mobile & Web Developer</strong>
-  </p>
-
-  <p>
-    Passionate about building intuitive, scalable, and
-    meaningful digital experiences.
-  </p>
-</div>
-
----
-
-<!-- Tech Stack -->
-<h2 align="center">Tech Stack & Tools 🛠️</h2>
-
-<h3 align="center">📱 Mobile Development</h3>
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart,gradle&theme=dark"
-    alt="Mobile Development"
-  />
+  <img src="https://raw.githubusercontent.com/rstsfyn/my_porto/main/img/profile/cat.webp" width="300" />
 </p>
+
+<h1 align="center">Hi, I'm Fyan! 👋</h1>
 
 <p align="center">
-  <sub>Kotlin • Jetpack Compose • Android • Flutter • Dart • Gradle</sub>
+  Learner
 </p>
 
-<h3 align="center">🌐 Web Development</h3>
+<h3 align="center">Tech Stack & Tools</h3>
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=nextjs,react,laravel,express,js,ts,php&theme=dark"
-    alt="Web Development"
-  />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart,nextjs,react,laravel,express,js,ts,php,python,nodejs,postgres,sqlite,supabase,firebase,git,github,figma,postman&perline=21&theme=dark" />
 </p>
-
-<p align="center">
-  <sub>Next.js • React • Laravel • Express.js • JavaScript • TypeScript • PHP</sub>
-</p>
-
-<h3 align="center">⚙️ Backend & Database</h3>
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=nodejs,python,postgres,sqlite,supabase,firebase&theme=dark"
-    alt="Backend and Database"
-  />
-</p>
-
-<p align="center">
-  <sub>Node.js • Python • PostgreSQL • SQLite • Supabase • Firebase</sub>
-</p>
-
-<h3 align="center">🎨 Development Tools & Design</h3>
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode&theme=dark"
-    alt="Development Tools"
-  />
-</p>
-
-<p align="center">
-  <sub>Git • GitHub • Figma • Postman • VS Code</sub>
-</p>
-
----
-
-<div align="center">
-  <p>
-    <i>Always learning, always building. 🚀</i>
-  </p>
-</div>
