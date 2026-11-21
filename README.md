@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,androidstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,androidstudio,firebase,sqlite&theme=dark" />
 </p>
 
 <p align="center">
@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,laravel,express,js,ts,php,python,postgres,sqlite,supabase,firebase,git,figma,postman&perline=14&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,laravel,express,js,ts,php,python,postgres,supabase,git,figma,postman&perline=14&theme=dark" />
 </p>
