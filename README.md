@@ -9,5 +9,5 @@ main stack
 
 familiar with
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nextjs,laravel,express,js,ts,php,python,postgres,supabase,mysql,postman,git,figma&perline=7&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,laravel,express,js,ts,php,python,postgres,supabase,mysql,postman,git,figma&theme=dark" />
 </p>
