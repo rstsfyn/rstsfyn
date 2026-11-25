@@ -1,5 +1,13 @@
-Building mobile apps. Exploring other things.
+hey, i'm a developer.
 
-Kotlin · Android · Flutter · Dart · Firebase · SQLite
+Mostly working on mobile apps, occasionally exploring other things. Just building, learning, and figuring things out along the way.
 
-Also familiar with: Next.js, Laravel, Express, TypeScript, PHP, Python, PostgreSQL, Supabase, MySQL, Git & Figma.
+main stack
+<p align="left">
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart,firebase,sqlite&theme=dark" />
+</p>
+
+familiar with
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nextjs,laravel,express,js,ts,php,python,postgres,supabase,mysql,postman,git,figma&perline=7&theme=dark" />
+</p>
