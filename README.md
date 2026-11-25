@@ -1,4 +1,4 @@
-hey, i'm a developer.
+hey, i'm a mobile developer.
 
 Mostly working on mobile apps, occasionally exploring other things. Just building, learning, and figuring things out along the way.
 
