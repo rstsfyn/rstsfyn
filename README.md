@@ -1,15 +1,5 @@
-<p>
-  Mostly building mobile apps, sometimes exploring other things.
-</p>
+Building mobile apps. Exploring other things.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart,firebase,sqlite&theme=dark" />
-</p>
+Kotlin · Android · Flutter · Dart · Firebase · SQLite
 
-<p>
-  <sub>Also familiar with</sub>
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,laravel,express,js,ts,php,python,postgres,supabase,mysql,postman,git,figma&perline=14&theme=dark" />
-</p>
+Also familiar with: Next.js, Laravel, Express, TypeScript, PHP, Python, PostgreSQL, Supabase, MySQL, Git & Figma.
